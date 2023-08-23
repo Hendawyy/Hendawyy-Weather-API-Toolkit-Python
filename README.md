@@ -3,7 +3,7 @@
 ## Description
 The Weather API Toolkit is a versatile Python-based toolset that empowers users to interact with weather data effortlessly. Whether you're interested in checking the current temperature, planning for future weather conditions, or obtaining latitude and longitude coordinates, this toolkit has you covered. Built using the WeatherAPI.com API, it provides a user-friendly interface for fetching weather information, making it a valuable resource for developers, hobbyists, and weather enthusiasts.
 
-## Description
+## Note
 I have a Private.py file created this file contains a string variable named API_KEY containing my API_KEY you need to create this file and add your API_KEY in order to use this project
 
 ## Features
