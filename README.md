@@ -26,4 +26,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Acknowledgments
 Thanks to WeatherAPI.com for providing the data used in this project.
-# Hendawyy-Weather-API-Toolkit-Python
